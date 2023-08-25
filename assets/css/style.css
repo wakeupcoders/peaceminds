@@ -720,6 +720,12 @@ section {
   min-height: 500px;
 }
 
+.about .video-box1 {
+  background: url("https://cdn.pixabay.com/photo/2021/06/10/15/16/employee-6326315_1280.png") center center no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+
 .about .play-btn {
   width: 94px;
   height: 94px;
